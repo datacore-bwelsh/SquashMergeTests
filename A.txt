@@ -1,4 +1,5 @@
+Main a
 a
 a2
-a3
-after squash
+a
+
