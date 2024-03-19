@@ -1,6 +1,7 @@
-Main a
-a
-a2
+
 a3
 Branch 2
 a4
+=======
+Main commit 3
+

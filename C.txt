@@ -1,4 +1,9 @@
 Main
 c
 c2
+
 Branch2
+=======
+main commit 3
+main commit 4
+
