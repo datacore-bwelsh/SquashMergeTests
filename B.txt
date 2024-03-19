@@ -1,10 +1,12 @@
-Main B
 b
 
 b3
 Branch 2
 
-b2
+
 main commit 3
 main commit 4
+
+=======
+b
 
