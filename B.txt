@@ -1,5 +1,3 @@
-Main B
 b
 b2
-main commit 3
-main commit 4
+b
